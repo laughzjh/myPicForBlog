@@ -1,0 +1,2 @@
+# myPicForBlog
+save blog image
